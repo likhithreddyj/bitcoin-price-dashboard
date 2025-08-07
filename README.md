@@ -1,36 +1,40 @@
-# Bitcoin Price Dashboard 📈
+# 📈 Bitcoin Price Dashboard Project
 
-This project presents an interactive dashboard for tracking Bitcoin price trends over time using Power BI and Excel.
+An interactive Power BI dashboard project to visualize and analyze Bitcoin price trends over time.
 
-## 📊 Tools & Technologies
-- Power BI
-- Microsoft Excel
-- DAX (Data Analysis Expressions)
-- Power Query
+## 📊 Project Overview
 
-## 📌 Features
-- Daily and monthly trend visualization
-- Filters for time range, volume, and exchange rate
-- Interactive charts (line, bar, slicers)
-- Data cleaning and transformation using Power Query
+- Visualized historical Bitcoin prices using Power BI
+- Created charts for time series, segments, and patterns
+- Imported and cleaned Excel data for dynamic filtering
 
 ## 📁 Files Included
-- `bitcoin_data.xlsx` – Raw Bitcoin price data
-- `bitcoin_dashboard.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
 
-## 📸 Dashboard Snapshot
-*(Add a screenshot of your Power BI dashboard here)*
+- `bitcoin_price_data.xlsx` – Cleaned dataset with historical Bitcoin prices
+- Power BI file: (To be added if available)
 
-## 💡 Learning Outcomes
-- Gained hands-on experience with Power BI report building
-- Applied data cleaning and transformation in Excel
-- Built KPIs, charts, and slicers for business-level insights
+## 🚀 Tools Used
+
+- Microsoft Excel (Data Cleaning)
+- Power BI (Dashboard Creation)
+- GitHub (Project Hosting)
+
+## ✅ Outcomes
+
+- Demonstrated data storytelling and dashboard design
+- Used slicers, filters, and visuals to present insights
+- Built a beginner-friendly finance data project
 
 ---
 
-## 👨‍💻 Author
-Likhith Reddy J  
-Aspiring Data Analyst | BCA 2025 | Python • Power BI • Excel  
-[LinkedIn](https://www.linkedin.com/in/likhith-reddy-data-analyst)
+### 💼 Ideal For:
+- Data Analyst portfolios
+- Power BI practice projects
+- Internship and entry-level job interviews
 
+---
+
+### 🔗 Connect with Me
+
+- 📧 Email: likhithreddyj6@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/likhith-reddy-data-analyst)
